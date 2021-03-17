@@ -1,4 +1,4 @@
-# decerator
+# decorator
 装饰者模式
 
 OO基础：
